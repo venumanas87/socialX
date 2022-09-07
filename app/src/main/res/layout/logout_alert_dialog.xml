@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="20dp"
+    >
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/yes_btn"
+        android:text="YES"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="@color/red"
+        android:textColor="#ffffff"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/no_btn"
+        android:text="NO"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="@color/app_blue"
+        android:textColor="#ffffff"
+        android:layout_weight="1"/>
+
+</LinearLayout>
