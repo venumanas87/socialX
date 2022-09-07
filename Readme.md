@@ -7,3 +7,6 @@ Libraries Used in Project -
 <li>MVVM Architecture - To maintain a good scalable architecture for the app</li>
 <li>Firebase - To manage authentication (email and google)</li>
 </ul>
+
+
+Video link - https://drive.google.com/file/d/1zRPnt09tYC5opFybAs9y5PIGjgB3zI-L/view?usp=drivesdk
