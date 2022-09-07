@@ -26,20 +26,4 @@ abstract class BaseFragment<VB : ViewBinding>: Fragment() {
     abstract fun getViewBinding(): VB
 
 
-
-   /* class DemoFragment : BaseFragment<DemoFragmentBinding>() {
-
-        override fun getViewBinding() = DemoFragmentBinding.inflate(layoutInflater)
-
-        override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-            super.onViewCreated(view, savedInstanceState)
-
-            binding.apply {
-                txtData.text = "Something"
-            }
-        }
-    }*/
-
-
-
 }

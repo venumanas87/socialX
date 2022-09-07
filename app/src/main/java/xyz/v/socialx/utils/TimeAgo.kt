@@ -1,6 +1,5 @@
 package xyz.v.socialx.utils
 
-import xyz.v.socialx.utils.TimeAgo
 
 object TimeAgo {
     private const val SECOND_MILLIS = 1000
